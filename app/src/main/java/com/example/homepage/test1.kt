@@ -1,4 +1,4 @@
 package com.example.homepage
 
-class TEST {
+class test1 {
 }
